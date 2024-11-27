@@ -1,0 +1,12 @@
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/Main.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/XMLTransformer.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/XMLValidator.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/model/Beer.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/model/BeerComparator.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/model/BottlingMethod.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/model/Chars.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/parser/BeerHandler.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/parser/ParserDOM.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/parser/ParserSAX.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/parser/ParserStAX.java
+/Users/danya.chuyko/Desktop/web/Lab2/src/main/java/org/example/beer/utils/Utils.java

@@ -1,0 +1,5 @@
+org/example/beer/parser/ParserStAXTest.class
+org/example/beer/model/BeerComparatorTest.class
+org/example/beer/parser/ParserSAXTest.class
+org/example/beer/parser/ParserDOMTest.class
+org/example/beer/XMLValidatorTest.class

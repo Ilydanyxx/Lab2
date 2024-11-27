@@ -1,0 +1,12 @@
+org/example/beer/parser/ParserStAX.class
+org/example/beer/parser/ParserDOM.class
+org/example/beer/model/Beer.class
+org/example/beer/XMLTransformer.class
+org/example/beer/utils/Utils.class
+org/example/beer/Main.class
+org/example/beer/parser/ParserSAX.class
+org/example/beer/parser/BeerHandler.class
+org/example/beer/model/BeerComparator.class
+org/example/beer/model/Chars.class
+org/example/beer/XMLValidator.class
+org/example/beer/model/BottlingMethod.class
